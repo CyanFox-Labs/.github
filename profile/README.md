@@ -16,8 +16,8 @@ CyanFox is a community-driven organization focused on creating open-source proje
 
 We host a variety of projects ranging from libraries, tools, and applications. Explore our repositories to find projects that interest you or to start contributing.
 
-- [CyanFox-Base](https://github.com/CyanFox/CyanFox-Base) - A modular extendable Base System based on Laravel 12.
-- [CyanFox-Base-Modules](https://github.com/CyanFox/CyanFox-Base-Modules) - Modules for CyanFox-Base.
+- [Base](https://github.com/CyanFox/Base) - A modular extendable Base System based on Laravel 12.
+- [Modules](https://github.com/CyanFox/Modules) - Modules for CyanFox-Base.
 - More projects coming soon!
 
 ## How to Contribute
